@@ -148,6 +148,10 @@ background-color:#0e76a8;
   font-weight: bold;
 }
 
+.container {
+  width: 80%;
+}
+
 .container h1,h2,h3,h4,h5,h6{
     color: #002e62;
 }
@@ -163,4 +167,11 @@ a{
 }
 .blog-header{
   background-color: #f8f8f8
+}
+
+
+/*add 2020-10-29*/
+
+.panel{
+  margin-top: 20%;
 }
